@@ -1,0 +1,122 @@
+{
+ "Vocabulary": {
+  "0": {
+   "question": "onVocabulary0",
+   "timer": 15,
+   "timerUnit": "sVocabulary0",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "1": {
+   "question": "onVocabulary1",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "2": {
+   "question": "onVocabulary2",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "3": {
+   "question": "onVocabulary3",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  }
+ },
+ "Grammer": {
+  "0": {
+   "question": "onGrammer0",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "1": {
+   "question": "onGrammer1",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "2": {
+   "question": "onGrammer2",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "3": {
+   "question": "onGrammer3",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  }
+ },
+ "Tenses": {
+  "0": {
+   "question": "onTenses0",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "1": {
+   "question": "onTenses1",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "2": {
+   "question": "onTenses2",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "3": {
+   "question": "onTenses3",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  }
+ },
+ "Punctuation": {
+  "0": {
+   "question": "onPunctuation0",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "1": {
+   "question": "onPunctuation1",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "2": {
+   "question": "onPunctuation2",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  },
+  "3": {
+   "question": "onPunctuation3",
+   "timer": 15,
+   "timerUnit": "s",
+   "nameGroup1": "Apple",
+   "nameGroup2": "Orange"
+  }
+ }
+}
